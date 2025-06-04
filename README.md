@@ -47,7 +47,7 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968946.png" alt="Seaborn" width="40" height="40"/><br/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-light.svg" alt="Seaborn" width="100" height="40"/><br/>
       <b>Seaborn</b>
     </td>
     <td>
