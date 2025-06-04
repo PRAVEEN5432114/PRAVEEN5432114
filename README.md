@@ -47,7 +47,7 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-light.svg" alt="Seaborn" width="100" height="40"/><br/>
+      <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/seaborn-logo.png" alt="Seaborn" width="60" height="40"/><br/>
       <b>Seaborn</b>
     </td>
     <td>
