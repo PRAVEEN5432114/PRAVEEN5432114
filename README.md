@@ -16,83 +16,76 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-<table align="center" style="margin:auto; border-collapse: separate; border-spacing: 20px 25px; table-layout: fixed; width: 720px;">
-  <colgroup>
-    <col style="width: 180px;">
-    <col style="width: 180px;">
-    <col style="width: 180px;">
-    <col style="width: 180px;">
-  </colgroup>
-  <tr align="center" valign="middle" style="height: 130px;">
-    <td style="padding:10px;">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="90" height="90"/><br/>
-        <b>MS SQL Server</b>
-      </a>
-    </td>
-    <td style="padding:10px;">
-      <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" height="90"/><br/>
-        <b>MySQL</b>
-      </a>
-    </td>
-    <td style="padding:10px;">
-      <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="90" height="90"/><br/>
-        <b>Pandas</b>
-      </a>
-    </td>
-    <td style="padding:10px; vertical-align: middle; text-align:center;">
-      <b>
-        <span style="font-size:48px; font-weight:bold; background: linear-gradient(90deg, #FF6A00, #EE0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display:block; margin-bottom: 5px;">
-          ETL
-        </span>
-      </b>
-      <b style="font-size:20px; display:block; letter-spacing: 2px;">Extract Transform Load</b>
-    </td>
-  </tr>
-  <tr align="center" valign="middle" style="height: 130px;">
-    <td style="padding:10px;">
-      <a href="https://www.python.org" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="90" height="90"/><br/>
-        <b>Python</b>
-      </a>
-    </td>
-    <td style="padding:10px;">
-      <a href="https://seaborn.pydata.org/" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="90" height="90"/><br/>
-        <b>Seaborn</b>
-      </a>
-    </td>
-    <td style="padding:10px;">
-      <a href="https://matplotlib.org/" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="90" height="90"/><br/>
-        <b>Matplotlib</b>
-      </a>
-    </td>
-    <td></td>
-  </tr>
-  <tr align="center" valign="middle" style="height: 130px;">
-    <td style="padding:10px;">
-      <a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="90" height="90"/><br/>
-        <b>Power BI</b>
-      </a>
-    </td>
-    <td style="padding:10px;">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="90" height="90"/><br/>
-        <b>Excel</b>
-      </a>
-    </td>
-    <td style="padding:10px;">
-      <a href="https://jupyter.org/" target="_blank" style="text-decoration:none; color:black;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="90"/><br/>
-        <b>Jupyter</b>
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
-</p>
+<div align="center" style="display: inline-flex; gap: 70px; flex-wrap: nowrap; align-items: center; justify-content: center; margin-top: 20px;">
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">MS SQL Server</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">MySQL</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">Pandas</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <span style="font-size: 58px; font-weight: 900; background: linear-gradient(90deg, #FF6A00, #EE0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent; user-select:none; display:block;">
+      ETL
+    </span>
+    <div style="margin-top: 8px; font-weight: bold; font-size: 18px; letter-spacing: 1.5px; color: #FF4500;">Extract Transform Load</div>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://www.python.org" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">Python</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://seaborn.pydata.org/" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">Seaborn</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://matplotlib.org/" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">Matplotlib</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">Power BI</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">Excel</div>
+    </a>
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <a href="https://jupyter.org/" target="_blank" style="text-decoration:none; color:black;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="90"/>
+      <div style="margin-top: 6px; font-weight: bold;">Jupyter</div>
+    </a>
+  </div>
+
+</div>
