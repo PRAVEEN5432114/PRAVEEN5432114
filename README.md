@@ -44,11 +44,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
   </a>
 
-  <!-- Gradient ETL Text -->
+  <!-- Bigger Gradient ETL Text -->
   <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noreferrer" 
      style="
        font-weight: 700; 
-       font-size: 28px; 
+       font-size: 36px; 
        font-family: Arial, sans-serif; 
        background: linear-gradient(90deg, #FF6A00, #EE0979); 
        -webkit-background-clip: text; 
