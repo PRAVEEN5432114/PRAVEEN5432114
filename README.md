@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center" style="display: inline-flex; gap: 70px; flex-wrap: nowrap; align-items: center; justify-content: center; margin-top: 20px;">
+<div align="center" style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
 
   <div style="text-align: center; width: 120px;">
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration:none; color:black;">
