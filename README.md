@@ -13,15 +13,15 @@
 
 ## 🛠️ Languages and Tools
 
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) | ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg) | ![Matplotlib](https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg) |
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =40x40) | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg =40x40) | ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg =40x40) | ![Matplotlib](https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg =40x40) |
 |:--:|:--:|:--:|:--:|
 | **Python** | **Pandas** | **NumPy** | **Matplotlib** |
 
-| ![Seaborn](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/logo-lightbg.svg) | ![MS SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | ![Power BI](https://img.icons8.com/color/40/power-bi.png) |
+| ![Seaborn](https://cdn-icons-png.flaticon.com/512/5968/5968946.png =40x40) | ![MS SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg =40x40) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =40x40) | ![Power BI](https://img.icons8.com/color/40/power-bi.png) |
 |:--:|:--:|:--:|:--:|
 | **Seaborn** | **MS SQL Server** | **MySQL** | **Power BI** |
 
-| ![Excel](https://img.icons8.com/color/40/microsoft-excel-2019--v1.png) | ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg) |
+| ![Excel](https://img.icons8.com/color/40/microsoft-excel-2019--v1.png) | ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg =40x40) |
 |:--:|:--:|
 | **Excel** | **Jupyter** |
 
