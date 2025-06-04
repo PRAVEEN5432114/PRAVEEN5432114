@@ -49,7 +49,7 @@
           ETL
         </span>
       </b>
-      <b style="font-size:20px; display:block; letter-spacing: 2px;">ETL</b>
+      <b style="font-size:20px; display:block; letter-spacing: 2px;">Extract Transform Load</b>
     </td>
   </tr>
   <tr align="center" valign="middle" style="height: 130px;">
