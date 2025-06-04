@@ -1,19 +1,3 @@
-<h1 align="center">Hi 👋, I'm D Praveen Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Learning Power BI, SQL, Python & Data Visualization</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/praveen-kumar-869844200/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:savithiri2580@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <span style="font-size: 16px; vertical-align: middle;">savithiri2580@gmail.com</span>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -52,8 +36,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- ETL icon and symbol -->
+  
+  <!-- ETL with emoji and distinct icon -->
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noreferrer" title="ETL - Extract, Transform, Load" style="font-weight:bold; font-size:22px; color:#1E90FF; margin-right:6px; vertical-align:middle;">
+    ⚡
+  </a>
   <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noreferrer" title="ETL - Extract, Transform, Load">
-    ⚙️ <img src="https://img.icons8.com/ios-filled/50/000000/gear.png" alt="etl" width="30" height="30" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/color/48/000000/data-in-both-directions.png" alt="etl" width="40" height="40" style="vertical-align:middle; margin-left:4px;" />
   </a>
 </p>
