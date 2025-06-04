@@ -51,4 +51,9 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- ETL icon and symbol -->
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noreferrer" title="ETL - Extract, Transform, Load">
+    ⚙️ <img src="https://img.icons8.com/ios-filled/50/000000/gear.png" alt="etl" width="30" height="30" style="vertical-align:middle;"/>
+  </a>
 </p>
