@@ -37,11 +37,14 @@
         <b>Pandas</b>
       </a>
     </td>
-    <td style="padding:10px;">
-      <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" title="ETL - Extract, Transform, Load">
-        <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-etl-big-data-flat-flat-juicy-fish.png" alt="ETL" width="90" height="90"/><br/>
-        <b><span style="font-size:28px; background: linear-gradient(90deg, #FF6A00, #EE0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">ETL</span></b>
-      </a>
+    <td style="padding:10px; vertical-align: middle;">
+      <b>
+        <span style="font-size:48px; font-weight:bold; background: linear-gradient(90deg, #FF6A00, #EE0979); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+          ETL
+        </span>
+      </b>
+      <br/>
+      <b>ETL</b>
     </td>
   </tr>
   <tr align="center">
