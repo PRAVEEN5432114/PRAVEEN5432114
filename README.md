@@ -11,7 +11,7 @@
     <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 16px; vertical-align: middle;">savithiri2580@gmail.com</span>
+  <span style="font-size: 16px; vertical-align: middle;">praveenkumard083@gmail.com</span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
