@@ -24,6 +24,8 @@
     <col style="width: 180px;">
     <col style="width: 180px;">
   </colgroup>
+  
+  <!-- Row 1 -->
   <tr align="center" valign="middle" style="height: 110px;">
     <td style="padding:10px;">
       <a href="https://www.python.org" target="_blank" style="text-decoration:none; color:black;">
@@ -50,7 +52,15 @@
       </a>
     </td>
   </tr>
+
+  <!-- Row 2 -->
   <tr align="center" valign="middle" style="height: 110px;">
+    <td style="padding:10px;">
+      <a href="https://scikit-learn.org/" target="_blank" style="text-decoration:none; color:black;">
+        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" alt="Scikit-learn" width="70" height="70"/><br/>
+        <b>Scikit-learn</b>
+      </a>
+    </td>
     <td style="padding:10px;">
       <a href="https://seaborn.pydata.org/" target="_blank" style="text-decoration:none; color:black;">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968872.png" alt="Seaborn" width="70" height="70"/><br/>
@@ -69,14 +79,16 @@
         <b>MySQL</b>
       </a>
     </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr align="center" valign="middle" style="height: 110px;">
     <td style="padding:10px;">
       <a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none; color:black;">
         <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="70" height="70"/><br/>
         <b>Power BI</b>
       </a>
     </td>
-  </tr>
-  <tr align="center" valign="middle" style="height: 110px;">
     <td style="padding:10px;">
       <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" style="text-decoration:none; color:black;">
         <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="70" height="70"/><br/>
@@ -89,6 +101,16 @@
         <b>Jupyter</b>
       </a>
     </td>
+    <td style="padding:10px;">
+      <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none; color:black;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="70" height="70"/><br/>
+        <b>VS Code</b>
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
+
     <td></td>
     <td></td>
   </tr>
