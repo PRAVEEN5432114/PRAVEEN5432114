@@ -4,11 +4,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/praveen-kumar-869844200" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="45" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:savithiri2580@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="36" width="45" />
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <span style="font-size: 16px; vertical-align: middle;">praveenkumard083@gmail.com</span>
@@ -66,16 +66,17 @@
         <b style="font-size:16px;">Seaborn</b>
       </a>
     </td>
+    <td></td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr align="center" valign="middle" style="height: 120px;">
     <td style="padding:10px;">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration:none; color:black;">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="90" height="90"/><br/>
         <b style="font-size:16px;">MS SQL Server</b>
       </a>
     </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr align="center" valign="middle" style="height: 120px;">
     <td style="padding:10px;">
       <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; color:black;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" height="90"/><br/>
@@ -107,18 +108,18 @@
       </a>
     </td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 </p>
 
-<!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
+---
+
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen5432114&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRAVEEN5432114&show_icons=true&theme=radical" alt="Praveen's GitHub Stats" />
 </p>
 
-<h3 align="center">🔥 Top Languages</h3>
+<h3 align="center">Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen5432114&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAVEEN5432114&layout=compact&theme=radical" alt="Top Languages" />
 </p>
