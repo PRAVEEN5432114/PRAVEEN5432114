@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm D Praveen Kumar</h1>
 <h3 align="center">Aspiring Data Analyst | Learning Power BI, SQL, Python, ETL & Data Visualization</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/praveen-kumar-869844200" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:savithiri2580@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <span style="font-size: 16px; vertical-align: middle;">praveenkumard083@gmail.com</span>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -97,4 +98,58 @@
     </td>
   </tr>
 </table>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumard083&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+<h3 align="center">🔥 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumard083&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🚀 Projects & Portfolio</h3>
+<ul style="list-style-type:none; padding: 0; text-align:center;">
+  <li><a href="https://github.com/praveenkumard083/Project-1" target="_blank">📈 Sales Data Analysis with Python & Power BI</a></li>
+  <li><a href="https://github.com/praveenkumard083/Project-2" target="_blank">🔍 Customer Segmentation using Clustering</a></li>
+  <li><a href="https://github.com/praveenkumard083/Project-3" target="_blank">📊 Interactive Dashboards with Power BI</a></li>
+</ul>
+
+---
+
+<h3 align="center">📚 Currently Learning</h3>
+<p align="center" style="font-size:18px;">
+  Python, SQL, Power BI, ETL pipelines, Data Visualization, Machine Learning
+</p>
+
+---
+
+<h3 align="center">🎯 Goals</h3>
+<ul style="list-style-type:none; padding: 0; font-size:16px; max-width: 600px; margin:auto;">
+  <li>✔ Master data cleaning and manipulation with Python and Pandas</li>
+  <li>✔ Build and deploy Power BI dashboards for real business cases</li>
+  <li>✔ Learn SQL for complex data querying and ETL processes</li>
+  <li>✔ Contribute to open-source data projects and competitions</li>
+  <li>✔ Develop skills in machine learning algorithms and models</li>
+</ul>
+
+---
+
+<h3 align="center">📫 Get in Touch</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-kumar-869844200" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:praveenkumard083@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" />
+  </a>
 </p>
