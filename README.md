@@ -111,8 +111,7 @@
 </table>
 </p>
 
-    <td></td>
-    <td></td>
+
   </tr>
 </table>
 </p>
