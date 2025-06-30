@@ -113,44 +113,44 @@
 <tr>
 <td width="50%">
 
-**📊 Sales Performance Dashboard**
-- Interactive Power BI dashboard with real-time KPIs
-- **Tech Stack:** Power BI, SQL, DAX
-- **Features:** Sales trends, customer analysis, forecasting
+**⚡ Electric Vehicle Market Dashboard**
+- Interactive Power BI dashboard analyzing U.S. EV adoption trends
+- **Tech Stack:** Power BI, DAX, Excel
+- **Impact:** Built dynamic KPIs analyzing BEV/PHEV types and state-level CAFV eligibility, increasing data visibility by 30%
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=sales-dashboard&theme=radical)](https://github.com/PRAVEEN5432114/sales-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=EV-Market-Dashboard&theme=radical)](https://github.com/PRAVEEN5432114/EV-Market-Dashboard)
 
 </td>
 <td width="50%">
 
-**🔍 Customer Segmentation Analysis**
-- Python-based customer behavior analysis
-- **Tech Stack:** Python, Pandas, Seaborn, Scikit-learn
-- **Features:** RFM analysis, clustering, insights
+**📺 Netflix Data Exploration**
+- Comprehensive EDA analyzing global Netflix subscription trends
+- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+- **Impact:** Processed 6,000+ records across 190+ countries, uncovered regional patterns improving content targeting by 20%
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=customer-analytics&theme=radical)](https://github.com/PRAVEEN5432114/customer-analytics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=Netflix-Data-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/Netflix-Data-Analysis)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📈 Financial Forecasting Model**
-- Time series analysis for revenue prediction
-- **Tech Stack:** Python, SQL, Tableau
-- **Features:** ARIMA modeling, trend analysis
+**🦠 COVID-19 Data Exploration**
+- Advanced SQL analysis of global pandemic trends and metrics
+- **Tech Stack:** SQL Server, CTEs, Window Functions, Joins
+- **Impact:** Queried 2M+ records with 95% accuracy, provided insights on infection rates and resource allocation
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=financial-forecasting&theme=radical)](https://github.com/PRAVEEN5432114/financial-forecasting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=COVID-19-SQL-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/COVID-19-SQL-Analysis)
 
 </td>
 <td width="50%">
 
-**🏪 E-commerce Analytics Suite**
-- Complete business intelligence solution
-- **Tech Stack:** SQL, Power BI, Python
-- **Features:** Sales funnel, cohort analysis, KPIs
+**🛒 Retail Orders Analysis**
+- End-to-end retail sales analysis with Python-SQL integration
+- **Tech Stack:** Python, Pandas, SQL, SQLAlchemy, Jupyter
+- **Impact:** Built ETL pipeline processing 3,500-row dataset, executed 6 complex SQL queries simulating full data workflow
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=ecommerce-analytics&theme=radical)](https://github.com/PRAVEEN5432114/ecommerce-analytics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=Retail-Orders-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/Retail-Orders-Analysis)
 
 </td>
 </tr>
