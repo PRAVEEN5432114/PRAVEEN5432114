@@ -96,9 +96,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PRAVEEN5432114&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PRAVEEN5432114&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
 ---
@@ -245,6 +245,6 @@ graph TD
   
 **"Turning data into insights, insights into decisions, and decisions into success!"** 📊✨
 
-![Snake animation](https://github.com/PRAVEEN5432114/PRAVEEN5432114/blob/output/github-contribution-grid-snake.svg)
+### 📬 Feel free to reach out for collaborations or just a friendly chat about data!
 
 </div>
