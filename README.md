@@ -1,7 +1,7 @@
 # Hi 👋, I'm D Praveen Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+%26+Business+Analyst;Transforming+Data+into+Decisions;Power+BI+%7C+SQL+%7C+Python+Expert;Storytelling+with+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+%26+Business+Analyst;Transforming+Data+into+Decisions;Power+BI+%7C+SQL%20%7C+Python+Expert;Storytelling+with+Dashboards" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,7 +46,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
@@ -118,7 +117,7 @@
 - **Tech Stack:** Power BI, DAX, Excel
 - **Impact:** Built dynamic KPIs analyzing BEV/PHEV types and state-level CAFV eligibility, increasing data visibility by 30%
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=EV-Market-Dashboard&theme=radical)](https://github.com/PRAVEEN5432114/EV-Market-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=EV-Market-Dashboard&theme=radical)](https://github.com/PRAVEEN5432114/Electric-vehicle-market-analysis)
 
 </td>
 <td width="50%">
@@ -128,123 +127,15 @@
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
 - **Impact:** Processed 6,000+ records across 190+ countries, uncovered regional patterns improving content targeting by 20%
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=Netflix-Data-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/Netflix-Data-Analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🦠 COVID-19 Data Exploration**
-- Advanced SQL analysis of global pandemic trends and metrics
-- **Tech Stack:** SQL Server, CTEs, Window Functions, Joins
-- **Impact:** Queried 2M+ records with 95% accuracy, provided insights on infection rates and resource allocation
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=COVID-19-SQL-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/COVID-19-SQL-Analysis)
-
-</td>
-<td width="50%">
-
-**🛒 Retail Orders Analysis**
-- End-to-end retail sales analysis with Python-SQL integration
-- **Tech Stack:** Python, Pandas, SQL, SQLAlchemy, Jupyter
-- **Impact:** Built ETL pipeline processing 3,500-row dataset, executed 6 complex SQL queries simulating full data workflow
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=Retail-Orders-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/Retail-Orders-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=Netflix-Data-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/-Exploratory-Data-Analysis-Using-Netflix-Data)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 Weekly Development Breakdown
+## 📚 Get in Touch
 
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████▒░░░░░░░░░░░░   50.2%
-SQL          6 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.1%
-Power BI     3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.4%
-DAX          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   6.0%
-Others       50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   3.3%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎯 Current Learning Path] --> B[Advanced DAX]
-    A --> C[Google Looker Studio]
-    A --> D[Azure Data Fundamentals]
-    A --> E[Machine Learning]
-    
-    B --> F[📊 Complex Calculations]
-    C --> G[📈 Advanced Visualizations]
-    D --> H[☁️ Cloud Analytics]
-    E --> I[🤖 Predictive Models]
-    
-    F --> J[🚀 Career Goal: Senior Data Analyst]
-    G --> J
-    H --> J
-    I --> J
-```
-
-</div>
-
----
-
-## 📞 Let's Connect!
-
-<div align="center">
-
-### 🌐 Find me around the web:
-
-<p>
-<a href="https://www.linkedin.com/in/praveen-kumar-869844200" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:praveenkumard083@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-</a>
-<a href="https://github.com/PRAVEEN5432114" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-### 💼 Open for Opportunities:
-- **Data Analyst** positions
-- **Business Intelligence** roles
-- **Analytics Engineering** opportunities
-- **Freelance Projects** in data visualization
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=twinkling&fontAlignY=75" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<div align="center">
-  
-**"Turning data into insights, insights into decisions, and decisions into success!"** 📊✨
-
-### 📬 Feel free to reach out for collaborations or just a friendly chat about data!
-
-</div>
+- 📧 Email: praveen.kumar@example.com
+- 🌐 LinkedIn: [linkedin.com/in/praveen-kumar](https://www.linkedin.com/in/praveen-k
