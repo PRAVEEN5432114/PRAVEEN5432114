@@ -46,7 +46,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
@@ -99,63 +98,6 @@
 ## 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PRAVEEN5432114&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</div>
-
----
-
-## 📈 Featured Projects
-
-<div align="center">
-
-### 🎯 Data Analytics Portfolio
-
-<table>
-<tr>
-<td width="50%">
-
-**⚡ Electric Vehicle Market Dashboard**
-- Interactive Power BI dashboard analyzing U.S. EV adoption trends
-- **Tech Stack:** Power BI, DAX, Excel
-- **Impact:** Built dynamic KPIs analyzing BEV/PHEV types and state-level CAFV eligibility, increasing data visibility by 30%
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=EV-Market-Dashboard&theme=radical)](https://github.com/PRAVEEN5432114/EV-Market-Dashboard)
-
-</td>
-<td width="50%">
-
-**📺 Netflix Data Exploration**
-- Comprehensive EDA analyzing global Netflix subscription trends
-- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-- **Impact:** Processed 6,000+ records across 190+ countries, uncovered regional patterns improving content targeting by 20%
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=Netflix-Data-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/Netflix-Data-Analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🦠 COVID-19 Data Exploration**
-- Advanced SQL analysis of global pandemic trends and metrics
-- **Tech Stack:** SQL Server, CTEs, Window Functions, Joins
-- **Impact:** Queried 2M+ records with 95% accuracy, provided insights on infection rates and resource allocation
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=COVID-19-SQL-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/COVID-19-SQL-Analysis)
-
-</td>
-<td width="50%">
-
-**🛒 Retail Orders Analysis**
-- End-to-end retail sales analysis with Python-SQL integration
-- **Tech Stack:** Python, Pandas, SQL, SQLAlchemy, Jupyter
-- **Impact:** Built ETL pipeline processing 3,500-row dataset, executed 6 complex SQL queries simulating full data workflow
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PRAVEEN5432114&repo=Retail-Orders-Analysis&theme=radical)](https://github.com/PRAVEEN5432114/Retail-Orders-Analysis)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
