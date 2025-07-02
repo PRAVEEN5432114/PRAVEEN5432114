@@ -12,14 +12,13 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="AI Data Analytics" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="right" alt="AI Data Analytics" width="320" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-🎯 **Data & Business Analyst** with hands-on experience in extracting actionable insights  
-📊 Passionate about turning **raw data** into **compelling dashboards** and **data-driven solutions**  
-📈 Specialized in **business problem-solving**, **forecasting**, **KPI analysis**, and **predictive insights**  
-🌱 Currently learning: **Advanced DAX**, **Machine Learning**, **Google Looker Studio**, **Azure Data**  
-💼 Open to opportunities in **Data Analysis**, **Business Intelligence** & **ML Analytics**  
-🎓 Continuous learner with a passion for **data storytelling** and **intelligent analytics**
+🎯 **Business & Data Analyst** with experience in turning raw data into insights and dashboards  
+📊 Skilled in problem-solving, KPI analysis, forecasting & reporting  
+📈 Learning: **Machine Learning**, **Advanced DAX**, **Looker Studio**, **Azure**  
+💼 Open to roles in **Data Analysis**, **BI**, and **ML Analytics**  
+🎓 Passionate about **data storytelling** and continuous learning
 
 ### 🔍 What I Do:
 - **📊 Data Visualization:** Create interactive dashboards in Power BI & Tableau with smart insights
