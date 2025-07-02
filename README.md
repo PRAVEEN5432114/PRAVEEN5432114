@@ -1,7 +1,7 @@
 # Hi 👋, I'm D Praveen Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+%26+Business+Analyst;Transforming+Data+into+Decisions;Power+BI+%7C+SQL+%7C+Python+Expert;Storytelling+with+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+%26+Business+Analyst;Transforming+Data+into+Decisions;Power+BI+%7C+SQL+%7C+Python+%7C+ML;Storytelling+with+Smart+Dashboards" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,21 +12,21 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Analytics" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="right" alt="AI Data Analytics" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-🎯 **Data Analyst** with hands-on experience in extracting actionable insights  
-📊 Passionate about turning **raw data** into **compelling dashboards**  
-📈 Specialized in **business problem-solving**, **forecasting**, and **KPI analysis**  
-🌱 Currently learning: **Advanced DAX**, **Google Looker Studio**, **Azure Data**  
-💼 Open to opportunities in **Data Analysis** & **Business Intelligence**  
-🎓 Continuous learner with a passion for **data storytelling**
+🎯 **Data & Business Analyst** with hands-on experience in extracting actionable insights  
+📊 Passionate about turning **raw data** into **compelling dashboards** and **data-driven solutions**  
+📈 Specialized in **business problem-solving**, **forecasting**, **KPI analysis**, and **predictive insights**  
+🌱 Currently learning: **Advanced DAX**, **Machine Learning**, **Google Looker Studio**, **Azure Data**  
+💼 Open to opportunities in **Data Analysis**, **Business Intelligence** & **ML Analytics**  
+🎓 Continuous learner with a passion for **data storytelling** and **intelligent analytics**
 
 ### 🔍 What I Do:
-- **📊 Data Visualization:** Create interactive dashboards in Power BI & Tableau
-- **🗃️ Database Management:** Design and optimize SQL queries for insights
-- **🐍 Python Analytics:** Statistical analysis and data manipulation
-- **📈 Business Intelligence:** KPI tracking and performance metrics
-- **🎯 Predictive Analytics:** Forecasting and trend analysis
+- **📊 Data Visualization:** Create interactive dashboards in Power BI & Tableau with smart insights
+- **🗃️ Database Management:** Design and optimize SQL queries for business intelligence
+- **🐍 Python Analytics:** Statistical analysis, data manipulation, and predictive modeling
+- **📈 Business Intelligence:** KPI tracking, performance metrics, and forecasting
+- **🎯 Advanced Analytics:** Trend analysis and machine learning for business insights
 
 ---
 
@@ -47,18 +47,26 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-### 📚 Libraries & Frameworks
+### 🤖 Machine Learning & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 📚 Data Science Libraries
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Big Data
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -125,14 +133,14 @@ graph TD
     A[🎯 Current Learning Path] --> B[Advanced DAX]
     A --> C[Google Looker Studio]
     A --> D[Azure Data Fundamentals]
-    A --> E[Machine Learning]
+    A --> E[Machine Learning Basics]
     
     B --> F[📊 Complex Calculations]
     C --> G[📈 Advanced Visualizations]
     D --> H[☁️ Cloud Analytics]
-    E --> I[🤖 Predictive Models]
+    E --> I[🤖 Predictive Analytics]
     
-    F --> J[🚀 Career Goal: Senior Data Analyst]
+    F --> J[🚀 Career Goal: Senior Data/Business Analyst]
     G --> J
     H --> J
     I --> J
@@ -167,7 +175,8 @@ graph TD
 - **Data Analyst** positions
 - **Business Intelligence** roles
 - **Analytics Engineering** opportunities
-- **Freelance Projects** in data visualization
+- **ML Analytics** roles
+- **Freelance Projects** in data visualization & predictive analytics
 
 </div>
 
@@ -185,8 +194,8 @@ graph TD
 
 <div align="center">
   
-**"Turning data into insights, insights into decisions, and decisions into success!"** 📊✨
+**"Turning data into insights, insights into decisions, and decisions into success with smart analytics!"** 📊🤖✨
 
-### 📬 Feel free to reach out for collaborations or just a friendly chat about data!
+### 📬 Feel free to reach out for collaborations or discussions about data-driven solutions!
 
 </div>
